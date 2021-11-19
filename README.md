@@ -1,2 +1,2 @@
 # mcupdate
-The old MCUpdate blog, updated.
+ля, пиздец
